@@ -12,9 +12,12 @@ Hello, Alvaro 'Krono' here!
 
 I needed a lightweight data grid for some commercial projects, and all were very bloated and expensive, so I developed this super light weight data grid.
 
-Two useful things in this code:
+Useful things in this project:
 1. A data grid with editable tools, kronoDataGrid.php, very light weight
 2. A RANDOM name and surname generator for your projects, in install/index.php and supporting files.
+3. A very lightweight MySQL connect wrapper. Check connectMySQL.php
+
+You dont need bloated code to be productive.
 
 Thanks for checking my code.
 
