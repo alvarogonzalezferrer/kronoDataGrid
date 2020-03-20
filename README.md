@@ -35,6 +35,10 @@ If you find my code useful and want to donate, here is my address:
 
 ## Usage
 
+FIRST: edit **dbConfig.php** and setup your MySQL user, password, database.
+
+SECOND: run **once** the **/install/index.php** script to generate the tables and random data. Also check the useful algorithm + dataset to generate random clients, is very useful to populate test databases.
+
 All the interesting stuff happens inside **lib/kronoDataGrid.php** ; check that file to see how it works.
 
 To do the test you need a PHP, web and database MySQL server, running locally or remotely.
